@@ -8,10 +8,10 @@ This MCP4922 is the Arduino library for the MCP4922 D/A Converter that runs on A
 This library is controlled the LED and Laser Module by Digital Pin of Arduino.
 
 ## Installation
-(1) To use the above library, first you need to download and install (Arduino 1.8.3)
+(1) To use the above library, first you need to download and install (Arduino 1.8.3) 
 https://www.arduino.cc/en/Guide/HomePage
 
-(2) next you need to download and install (Teensyduino)
+(2) next you need to download and install (Teensyduino)  
 https://www.pjrc.com/teensy/td_download.html
 
 (3) To get a copy of the repository you can download the source from  
