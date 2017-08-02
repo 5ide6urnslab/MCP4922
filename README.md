@@ -22,6 +22,8 @@ https://github.com/5ide6urnslab/MCP4922
 ## Running the Example Project
 An example project is provided in the **/example/** folder.
 <br>
+##### MultipleMCP4922
+This example is controlling Multiple MCP4922s.
 
 ## Reference
 (1) MCP4922 Datasheet  
